@@ -60,4 +60,5 @@ docker swarm update --autolock=true
 
 Включает автоблокировку на существующем рое
 
-
+[swarm update](https://github.com/davlyatov-ts/virt-5/blob/master/swarm%20update.png)<br>
+_______________________________
